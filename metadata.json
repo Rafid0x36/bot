@@ -1,0 +1,5 @@
+{
+  "name": "NusratBot",
+  "description": "A charming, flirty, and intelligent AI chatbot that speaks your language.",
+  "requestFramePermissions": ["microphone"]
+}
